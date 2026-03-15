@@ -213,8 +213,8 @@ Nếu bạn đang học Backend Python, bước tiếp theo rất hợp lý là 
 
 ## Tài nguyên từ ITPrep
 
-- Website chính thức: https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/
-- YouTube chính thức: https://www.youtube.com/watch?v=waxxHyX-4J4
+- Website tham khảo RESTFUL API: https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/
+- YouTube tham khảo RESTFUL API: https://www.youtube.com/watch?v=waxxHyX-4J4
 
 ---
 

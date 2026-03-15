@@ -6,7 +6,9 @@ Trong hầu hết các hệ thống web hiện đại, API đóng vai trò là c
 
 Bài viết này giúp bạn hiểu rõ **REST API là gì**, cách REST hoạt động trong dự án thực tế, và **7 nguyên tắc quan trọng để thiết kế API chuẩn**, dễ bảo trì và dễ mở rộng.
 
-![REST API là gì và 7 nguyên tắc thiết kế API chuẩn](image/restapi.webp)
+<p align="center">
+  <img src="image/restapi.jpg" alt="REST API là gì và 7 nguyên tắc thiết kế API chuẩn" width="820" />
+</p>
 
 ## Mục lục
 
@@ -215,13 +217,18 @@ Nếu bạn đang học Backend Python, bước tiếp theo rất hợp lý là 
 
 ## Tài nguyên từ ITPrep
 
-- Website tham khảo RESTFUL API:
+<p align="center">
+  <a href="https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/">
+    <img src="image/itprep-rest-api-web.webp" alt="Bài viết REST API tại ITPrep" width="360" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=waxxHyX-4J4">
+    <img src="image/itprep-rest-api-youtube.jpg" alt="Video REST API trên YouTube" width="360" />
+  </a>
+</p>
 
-[![Bài viết REST API tại ITPrep](image/restapi.webp)](https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/)
-
-- YouTube tham khảo RESTFUL API:
-
-[![Video REST API trên YouTube](https://img.youtube.com/vi/waxxHyX-4J4/hqdefault.jpg)](https://www.youtube.com/watch?v=waxxHyX-4J4)
+- Bài viết: `https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/`
+- Video: `https://www.youtube.com/watch?v=waxxHyX-4J4`
 
 ---
 

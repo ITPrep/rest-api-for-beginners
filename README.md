@@ -217,18 +217,21 @@ Nếu bạn đang học Backend Python, bước tiếp theo rất hợp lý là 
 
 ## Tài nguyên từ ITPrep
 
+- Bài viết: `https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/`
+
 <p align="center">
   <a href="https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/">
-    <img src="image/itprep-rest-api-web.webp" alt="Bài viết REST API tại ITPrep" width="360" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=waxxHyX-4J4">
-    <img src="image/itprep-rest-api-youtube.jpg" alt="Video REST API trên YouTube" width="360" />
+    <img src="image/itprep-rest-api-web.webp" alt="Bài viết REST API tại ITPrep" width="420" />
   </a>
 </p>
 
-- Bài viết: `https://itprep.com.vn/rest-api-7-nguyen-tac-thiet-ke-api-chuan/`
 - Video: `https://www.youtube.com/watch?v=waxxHyX-4J4`
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=waxxHyX-4J4">
+    <img src="image/itprep-rest-api-youtube.jpg" alt="Video REST API trên YouTube" width="420" />
+  </a>
+</p>
 
 ---
 

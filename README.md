@@ -6,6 +6,8 @@ Trong hầu hết các hệ thống web hiện đại, API đóng vai trò là c
 
 Bài viết này giúp bạn hiểu rõ **REST API là gì**, cách REST hoạt động trong dự án thực tế, và **7 nguyên tắc quan trọng để thiết kế API chuẩn**, dễ bảo trì và dễ mở rộng.
 
+![REST API là gì và 7 nguyên tắc thiết kế API chuẩn](image/restapi.webp)
+
 ## Mục lục
 
 - [REST API là gì?](#rest-api-là-gì)
